@@ -1,0 +1,16 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "Extreme Tech Training ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sinan Mouline",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "morgan": "^1.7.0",
+    "stylus": "^0.53.0"
+  }
+}
